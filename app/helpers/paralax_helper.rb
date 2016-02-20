@@ -1,0 +1,2 @@
+module ParalaxHelper
+end
